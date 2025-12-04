@@ -1,0 +1,4 @@
+node_modules
+dataBase.sqlite
+dist
+.env
